@@ -1,4 +1,4 @@
-# Connect-Lines
+# (Java) Connect-Lines
 
 ## Description
 This project comes with a blank GUI and create a point whenever the user clicks on the screen. That point will automatically draw a line to the closest point. However, when a point has 5 or more connections, that point is deleted and all lines connected to the deleted point are redrawn to their closest point. The goal of the project is to practice **architectural design patterns**. Architectural patterns are general, reusable solutions to commonly occuring problem in software architecture. The architectural patterns use here are the **Model-View-Controller pattern** and **Blackboard pattern**. The design pattern decisions is explained in *Design_Explaination.pdf*. The structure of the project can be found in *UML_diagram.JPG*. 
